@@ -1,0 +1,697 @@
+"epseason","epnum","epname","Chandler","Joey","Monica","Phoebe","Rachel","Ross"
+1,1,"The One Where Monica Gets a Roommate",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,1,"The One Where Monica Gets a Roommate",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,1,"The One Where Monica Gets a Roommate",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1,1,"The One Where Monica Gets a Roommate",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+1,2,"The One with the Sonogram at the End",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,2,"The One with the Sonogram at the End",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,2,"The One with the Sonogram at the End",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1,3,"The One with the Thumb",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,3,"The One with the Thumb",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,3,"The One with the Thumb",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+1,4,"The One with George Stephanopoulos",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,4,"The One with George Stephanopoulos",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+1,4,"The One with George Stephanopoulos",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+1,5,"The One with the East German Laundry Detergent",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+1,5,"The One with the East German Laundry Detergent",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+1,5,"The One with the East German Laundry Detergent",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1,6,"The One with the Butt",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,6,"The One with the Butt",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,6,"The One with the Butt",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+1,7,"The One with the Blackout",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,7,"The One with the Blackout",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,7,"The One with the Blackout",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+1,7,"The One with the Blackout",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1,8,"The One Where Nana Dies Twice",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,8,"The One Where Nana Dies Twice",FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+1,9,"The One Where Underdog Gets Away",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,9,"The One Where Underdog Gets Away",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,10,"The One with the Monkey",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,10,"The One with the Monkey",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,10,"The One with the Monkey",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,10,"The One with the Monkey",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+1,10,"The One with the Monkey",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,10,"The One with the Monkey",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,11,"The One with Mrs. Bing",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,11,"The One with Mrs. Bing",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+1,11,"The One with Mrs. Bing",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+1,12,"The One with the Dozen Lasagnas",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,12,"The One with the Dozen Lasagnas",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+1,12,"The One with the Dozen Lasagnas",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,13,"The One with the Boobies",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,13,"The One with the Boobies",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+1,13,"The One with the Boobies",TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+1,14,"The One with the Candy Hearts",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,14,"The One with the Candy Hearts",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,14,"The One with the Candy Hearts",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+1,15,"The One with the Stoned Guy",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,15,"The One with the Stoned Guy",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,15,"The One with the Stoned Guy",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+1,16,"The One with Two Parts: Part 1",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,16,"The One with Two Parts: Part 1",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,16,"The One with Two Parts: Part 1",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,16,"The One with Two Parts: Part 1",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,16,"The One with Two Parts: Part 1",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+1,17,"The One with Two Parts: Part 2",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,17,"The One with Two Parts: Part 2",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+1,17,"The One with Two Parts: Part 2",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+1,18,"The One with All the Poker*",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,19,"The One Where the Monkey Gets Away",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1,20,"The One with the Evil Orthodontist",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,20,"The One with the Evil Orthodontist",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,21,"The One with the Fake Monica",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,21,"The One with the Fake Monica",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+1,21,"The One with the Fake Monica",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+1,22,"The One with the Ick Factor",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,22,"The One with the Ick Factor",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+1,22,"The One with the Ick Factor",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1,23,"The One with the Birth",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,23,"The One with the Birth",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+1,23,"The One with the Birth",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,23,"The One with the Birth",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+1,24,"The One Where Rachel Finds Out",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+1,24,"The One Where Rachel Finds Out",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+1,24,"The One Where Rachel Finds Out",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+2,1,"The One with Ross's New Girlfriend",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+2,1,"The One with Ross's New Girlfriend",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,1,"The One with Ross's New Girlfriend",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,1,"The One with Ross's New Girlfriend",TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+2,2,"The One with the Breast Milk",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,2,"The One with the Breast Milk",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+2,2,"The One with the Breast Milk",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+2,3,"The One Where Heckles Dies",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+2,3,"The One Where Heckles Dies",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+2,4,"The One with Phoebe's Husband",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,4,"The One with Phoebe's Husband",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+2,4,"The One with Phoebe's Husband",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,5,"The One with Five Steaks and an Eggplant",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+2,5,"The One with Five Steaks and an Eggplant",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+2,5,"The One with Five Steaks and an Eggplant",FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+2,6,"The One with the Baby on the Bus",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,6,"The One with the Baby on the Bus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,7,"The One Where Ross Finds Out",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,7,"The One Where Ross Finds Out",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+2,7,"The One Where Ross Finds Out",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,8,"The One with the List",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,8,"The One with the List",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+2,8,"The One with the List",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,9,"The One with Phoebe's Dad",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,9,"The One with Phoebe's Dad",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,9,"The One with Phoebe's Dad",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,9,"The One with Phoebe's Dad",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,10,"The One with Russ",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,10,"The One with Russ",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,10,"The One with Russ",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+2,11,"The One with the Lesbian Wedding",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,11,"The One with the Lesbian Wedding",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,11,"The One with the Lesbian Wedding",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+2,12,"The One After the Superbowl: Part 1",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+2,12,"The One After the Superbowl: Part 1",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,12,"The One After the Superbowl: Part 1",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,12,"The One After the Superbowl: Part 1",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+2,12,"The One After the Superbowl: Part 1",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+2,13,"The One After the Superbowl: Part 2",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+2,13,"The One After the Superbowl: Part 2",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,13,"The One After the Superbowl: Part 2",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,13,"The One After the Superbowl: Part 2",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+2,13,"The One After the Superbowl: Part 2",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+2,14,"The One with the Prom Video",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,14,"The One with the Prom Video",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,14,"The One with the Prom Video",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,15,"The One Where Ross and Rachel... You Know",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,15,"The One Where Ross and Rachel... You Know",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,15,"The One Where Ross and Rachel... You Know",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,16,"The One Where Joey Moves Out",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,16,"The One Where Joey Moves Out",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,16,"The One Where Joey Moves Out",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+2,17,"The One Where Eddie Moves In",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,17,"The One Where Eddie Moves In",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,17,"The One Where Eddie Moves In",FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+2,18,"The One Where Dr. Ramoray Dies",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,18,"The One Where Dr. Ramoray Dies",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,18,"The One Where Dr. Ramoray Dies",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,18,"The One Where Dr. Ramoray Dies",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,19,"The One Where Eddie Won't Go",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,19,"The One Where Eddie Won't Go",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+2,20,"The One Where Old Yeller Dies",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,20,"The One Where Old Yeller Dies",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+2,20,"The One Where Old Yeller Dies",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,21,"The One with the Bullies",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,21,"The One with the Bullies",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+2,21,"The One with the Bullies",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+2,22,"The One with the Two Parties",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+2,22,"The One with the Two Parties",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,22,"The One with the Two Parties",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,22,"The One with the Two Parties",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+2,23,"The One with the Chicken Pox",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,23,"The One with the Chicken Pox",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+2,23,"The One with the Chicken Pox",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,23,"The One with the Chicken Pox",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+2,24,"The One with Barry and Mindy's Wedding",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+2,24,"The One with Barry and Mindy's Wedding",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,24,"The One with Barry and Mindy's Wedding",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,24,"The One with Barry and Mindy's Wedding",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+3,1,"The One with the Princess Leia Fantasy",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,1,"The One with the Princess Leia Fantasy",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,1,"The One with the Princess Leia Fantasy",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,2,"The One Where No One's Ready",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,2,"The One Where No One's Ready",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,2,"The One Where No One's Ready",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,3,"The One with the Jam",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,3,"The One with the Jam",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,3,"The One with the Jam",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,4,"The One with the Metaphorical Tunnel",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+3,4,"The One with the Metaphorical Tunnel",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+3,4,"The One with the Metaphorical Tunnel",TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+3,5,"The One with Frank Jr.",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,5,"The One with Frank Jr.",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,5,"The One with Frank Jr.",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,6,"The One with the Flashback",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+3,6,"The One with the Flashback",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+3,6,"The One with the Flashback",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+3,7,"The One with the Race Car Bed",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,7,"The One with the Race Car Bed",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+3,7,"The One with the Race Car Bed",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,8,"The One with the Giant Poking Device",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,8,"The One with the Giant Poking Device",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,8,"The One with the Giant Poking Device",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+3,9,"The One with the Football",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,9,"The One with the Football",FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+3,10,"The One Where Rachel Quits",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+3,10,"The One Where Rachel Quits",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+3,10,"The One Where Rachel Quits",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+3,11,"The One Where Chandler Can't Remember Which Sister",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,11,"The One Where Chandler Can't Remember Which Sister",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,12,"The One with All the Jealousy",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,12,"The One with All the Jealousy",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,12,"The One with All the Jealousy",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,13,"The One Where Monica and Richard Are Just Friends",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,13,"The One Where Monica and Richard Are Just Friends",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,13,"The One Where Monica and Richard Are Just Friends",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+3,14,"The One with Phoebe's Ex-Partner",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,14,"The One with Phoebe's Ex-Partner",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,14,"The One with Phoebe's Ex-Partner",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,15,"The One Where Ross and Rachel Take a Break",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,15,"The One Where Ross and Rachel Take a Break",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,15,"The One Where Ross and Rachel Take a Break",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,16,"The One the Morning After",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,16,"The One the Morning After",TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+3,17,"The One Without the Ski Trip",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,17,"The One Without the Ski Trip",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,18,"The One with the Hypnosis Tape",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,18,"The One with the Hypnosis Tape",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,18,"The One with the Hypnosis Tape",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,19,"The One with the Tiny T-Shirt",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,19,"The One with the Tiny T-Shirt",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,19,"The One with the Tiny T-Shirt",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,20,"The One with the Dollhouse",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,20,"The One with the Dollhouse",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+3,20,"The One with the Dollhouse",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+3,21,"The One with the Chick and the Duck",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,21,"The One with the Chick and the Duck",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+3,21,"The One with the Chick and the Duck",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+3,22,"The One with the Screamer",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+3,22,"The One with the Screamer",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,22,"The One with the Screamer",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+3,23,"The One with Ross's Thing",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,23,"The One with Ross's Thing",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,23,"The One with Ross's Thing",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+3,24,"The One with the Ultimate Fighting Champion",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,24,"The One with the Ultimate Fighting Champion",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+3,24,"The One with the Ultimate Fighting Champion",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+3,25,"The One at the Beach",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,25,"The One at the Beach",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+4,1,"The One with the Jellyfish",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,1,"The One with the Jellyfish",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+4,1,"The One with the Jellyfish",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+4,2,"The One with the Cat",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+4,2,"The One with the Cat",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,2,"The One with the Cat",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,3,"The One with the 'Cuffs",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,3,"The One with the 'Cuffs",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+4,4,"The One with the Ballroom Dancing",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,4,"The One with the Ballroom Dancing",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,4,"The One with the Ballroom Dancing",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,5,"The One with Joey's New Girlfriend",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,5,"The One with Joey's New Girlfriend",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,5,"The One with Joey's New Girlfriend",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,6,"The One with the Dirty Girl",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,6,"The One with the Dirty Girl",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,6,"The One with the Dirty Girl",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+4,7,"The One Where Chandler Crosses the Line",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,7,"The One Where Chandler Crosses the Line",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,8,"The One with Chandler in a Box",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+4,8,"The One with Chandler in a Box",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,9,"The One Where They're Going to Party!",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,9,"The One Where They're Going to Party!",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+4,9,"The One Where They're Going to Party!",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,10,"The One with the Girl from Poughkeepsie",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,10,"The One with the Girl from Poughkeepsie",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,10,"The One with the Girl from Poughkeepsie",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+4,11,"The One with Phoebe's Uterus",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,11,"The One with Phoebe's Uterus",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+4,12,"The One with the Embryos",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,12,"The One with the Embryos",TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+4,13,"The One with Rachel's Crush",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+4,13,"The One with Rachel's Crush",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+4,13,"The One with Rachel's Crush",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,14,"The One with Joey's Dirty Day",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+4,14,"The One with Joey's Dirty Day",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,14,"The One with Joey's Dirty Day",FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+4,15,"The One with All the Rugby",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+4,15,"The One with All the Rugby",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+4,15,"The One with All the Rugby",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,16,"The One with the Fake Party",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+4,16,"The One with the Fake Party",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,17,"The One with the Free Porn",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+4,17,"The One with the Free Porn",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,17,"The One with the Free Porn",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,18,"The One with Rachel's New Dress",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,18,"The One with Rachel's New Dress",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,18,"The One with Rachel's New Dress",TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+4,19,"The One with All the Haste",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,19,"The One with All the Haste",TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+4,20,"The One with All the Wedding Dresses",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,20,"The One with All the Wedding Dresses",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,20,"The One with All the Wedding Dresses",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+4,21,"The One with the Invitation",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+4,21,"The One with the Invitation",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,22,"The One with the Worst Best Man Ever",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+4,22,"The One with the Worst Best Man Ever",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+4,23,"The One with Ross's Wedding: Part One",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,23,"The One with Ross's Wedding: Part One",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+4,23,"The One with Ross's Wedding: Part One",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+4,24,"The One with Ross's Wedding: Part Two",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,24,"The One with Ross's Wedding: Part Two",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,1,"The One After Ross Says Rachel",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,1,"The One After Ross Says Rachel",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,2,"The One with All the Kissing",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,2,"The One with All the Kissing",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,2,"The One with All the Kissing",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+5,2,"The One with All the Kissing",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+5,3,"The One Hundredth",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,3,"The One Hundredth",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,3,"The One Hundredth",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,4,"The One Where Phoebe Hates PBS",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,4,"The One Where Phoebe Hates PBS",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+5,4,"The One Where Phoebe Hates PBS",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,5,"The One with the Kips",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,5,"The One with the Kips",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+5,5,"The One with the Kips",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+5,6,"The One with the Yeti",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,6,"The One with the Yeti",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,6,"The One with the Yeti",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+5,7,"The One Where Ross Moves In",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,7,"The One Where Ross Moves In",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+5,7,"The One Where Ross Moves In",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+5,8,"The One with the Thanksgiving Flashbacks",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,9,"The One with Ross's Sandwich",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,9,"The One with Ross's Sandwich",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+5,9,"The One with Ross's Sandwich",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+5,10,"The One with the Inappropriate Sister",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,10,"The One with the Inappropriate Sister",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,10,"The One with the Inappropriate Sister",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+5,11,"The One with All the Resolutions",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,11,"The One with All the Resolutions",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+5,11,"The One with All the Resolutions",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+5,11,"The One with All the Resolutions",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+5,12,"The One with Chandler's Work Laugh",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,12,"The One with Chandler's Work Laugh",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,12,"The One with Chandler's Work Laugh",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+5,13,"The One with Joey's Bag",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,13,"The One with Joey's Bag",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,13,"The One with Joey's Bag",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+5,14,"The One Where Everybody Finds Out",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,14,"The One Where Everybody Finds Out",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,14,"The One Where Everybody Finds Out",FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+5,15,"The One with the Girl Who Hits Joey",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,15,"The One with the Girl Who Hits Joey",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,15,"The One with the Girl Who Hits Joey",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,16,"The One with the Cop",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,16,"The One with the Cop",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+5,16,"The One with the Cop",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+5,17,"The One with Rachel's Inadvertent Kiss",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,17,"The One with Rachel's Inadvertent Kiss",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,17,"The One with Rachel's Inadvertent Kiss",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,18,"The One Where Rachel Smokes",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,18,"The One Where Rachel Smokes",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,18,"The One Where Rachel Smokes",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+5,19,"The One Where Ross Can't Flirt",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,19,"The One Where Ross Can't Flirt",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,19,"The One Where Ross Can't Flirt",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+5,20,"The One with the Ride Along",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,20,"The One with the Ride Along",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+5,21,"The One with the Ball",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,21,"The One with the Ball",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+5,21,"The One with the Ball",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+5,22,"The One with Joey's Big Break",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,22,"The One with Joey's Big Break",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,21,"The One with the Ball",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+5,23,"The One in Vegas: Part 1",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,23,"The One in Vegas: Part 1",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,23,"The One in Vegas: Part 1",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,23,"The One in Vegas: Part 1",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,23,"The One in Vegas: Part 1",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+5,24,"The One in Vegas: Part 2",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+5,24,"The One in Vegas: Part 2",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,24,"The One in Vegas: Part 2",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+5,24,"The One in Vegas: Part 2",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,24,"The One in Vegas: Part 2",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,1,"The One After Vegas",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,1,"The One After Vegas",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+6,1,"The One After Vegas",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,2,"The One Where Ross Hugs Rachel",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+6,2,"The One Where Ross Hugs Rachel",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,2,"The One Where Ross Hugs Rachel",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+6,2,"The One Where Ross Hugs Rachel",TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+6,3,"The One with Ross's Denial",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,3,"The One with Ross's Denial",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,4,"The One Where Joey Loses His Insurance",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,4,"The One Where Joey Loses His Insurance",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,4,"The One Where Joey Loses His Insurance",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,5,"The One with Joey's Porsche",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,5,"The One with Joey's Porsche",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,5,"The One with Joey's Porsche",TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+6,6,"The One on the Last Night",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,6,"The One on the Last Night",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+6,7,"The One Where Phoebe Runs",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,7,"The One Where Phoebe Runs",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,7,"The One Where Phoebe Runs",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+6,8,"The One with Ross' Teeth",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,8,"The One with Ross' Teeth",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+6,9,"The One Where Ross Got High",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+6,9,"The One Where Ross Got High",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+6,9,"The One Where Ross Got High",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+6,9,"The One Where Ross Got High",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+6,10,"The One with the Routine",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,10,"The One with the Routine",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,10,"The One with the Routine",TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+6,11,"The One with the Apothecary Table",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+6,11,"The One with the Apothecary Table",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+6,12,"The One with the Joke",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,12,"The One with the Joke",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,12,"The One with the Joke",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+6,13,"The One with Rachel's Sister",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,13,"The One with Rachel's Sister",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,13,"The One with Rachel's Sister",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,14,"The One Where Chandler Can't Cry",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+6,14,"The One Where Chandler Can't Cry",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+6,14,"The One Where Chandler Can't Cry",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,15,"The One That Could Have Been: Part 1",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,15,"The One That Could Have Been: Part 1",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+6,15,"The One That Could Have Been: Part 1",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,15,"The One That Could Have Been: Part 1",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,15,"The One That Could Have Been: Part 1",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,15,"The One That Could Have Been: Part 1",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+6,16,"The One That Could Have Been: Part 2",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,16,"The One That Could Have Been: Part 2",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+6,16,"The One That Could Have Been: Part 2",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,16,"The One That Could Have Been: Part 2",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,16,"The One That Could Have Been: Part 2",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,16,"The One That Could Have Been: Part 2",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+6,17,"The One with Unagi",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,17,"The One with Unagi",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,17,"The One with Unagi",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+6,18,"The One Where Ross Dates a Student",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,18,"The One Where Ross Dates a Student",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+6,19,"The One with Joey's Fridge",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,19,"The One with Joey's Fridge",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,19,"The One with Joey's Fridge",TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+6,20,"The One with Mac and C.H.E.E.S.E.",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,21,"The One Where Ross Meets Elizabeth's Dad",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,21,"The One Where Ross Meets Elizabeth's Dad",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,21,"The One Where Ross Meets Elizabeth's Dad",TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+6,22,"The One Where Paul's the Man",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,22,"The One Where Paul's the Man",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+6,23,"The One with the Ring",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+6,23,"The One with the Ring",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+6,23,"The One with the Ring",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+6,24,"The One with the Proposal: Part 1",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,24,"The One with the Proposal: Part 1",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,24,"The One with the Proposal: Part 1",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+6,25,"The One with the Proposal: Part 2",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+6,25,"The One with the Proposal: Part 2",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+6,25,"The One with the Proposal: Part 2",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,1,"The One with Monica's Thunder",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+7,1,"The One with Monica's Thunder",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,1,"The One with Monica's Thunder",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+7,1,"The One with Monica's Thunder",FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+7,2,"The One with Rachel's Book",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,2,"The One with Rachel's Book",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+7,2,"The One with Rachel's Book",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+7,3,"The One with Phoebe's Cookies",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+7,3,"The One with Phoebe's Cookies",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+7,3,"The One with Phoebe's Cookies",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+7,4,"The One with Rachel's Assistant",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,4,"The One with Rachel's Assistant",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+7,4,"The One with Rachel's Assistant",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+7,5,"The One with the Engagement Picture",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,5,"The One with the Engagement Picture",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+7,5,"The One with the Engagement Picture",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+7,6,"The One with the Nap Partners",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,6,"The One with the Nap Partners",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+7,6,"The One with the Nap Partners",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+7,7,"The One with Ross's Library Book",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+7,7,"The One with Ross's Library Book",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,7,"The One with Ross's Library Book",FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+7,8,"The One Where Chandler Doesn't Like Dogs",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+7,8,"The One Where Chandler Doesn't Like Dogs",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+7,8,"The One Where Chandler Doesn't Like Dogs",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+7,9,"The One with All the Candy",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,9,"The One with All the Candy",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+7,9,"The One with All the Candy",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+7,10,"The One with the Holiday Armadillo",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+7,10,"The One with the Holiday Armadillo",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+7,11,"The One with All the Cheesecakes",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,11,"The One with All the Cheesecakes",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+7,11,"The One with All the Cheesecakes",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+7,12,"The One Where They're Up All Night",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+7,12,"The One Where They're Up All Night",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+7,12,"The One Where They're Up All Night",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,12,"The One Where They're Up All Night",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+7,13,"The One Where Rosita Dies",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+7,13,"The One Where Rosita Dies",FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+7,13,"The One Where Rosita Dies",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+7,14,"The One Where They All Turn Thirty",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+7,15,"The One with Joey's New Brain",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,15,"The One with Joey's New Brain",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+7,15,"The One with Joey's New Brain",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+7,16,"The One with the Truth About London",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,16,"The One with the Truth About London",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,16,"The One with the Truth About London",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+7,17,"The One with the Cheap Wedding Dress",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,17,"The One with the Cheap Wedding Dress",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+7,18,"The One with Joey's Award",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,18,"The One with Joey's Award",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+7,19,"The One with Ross and Monica's Cousin",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+7,19,"The One with Ross and Monica's Cousin",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+7,20,"The One with Rachel's Big Kiss",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+7,20,"The One with Rachel's Big Kiss",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+7,21,"The One with the Vows",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,22,"The One with Chandler's Dad",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,22,"The One with Chandler's Dad",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+7,22,"The One with Chandler's Dad",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+7,23,"The One with Monica and Chandler's Wedding: Part 1",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,23,"The One with Monica and Chandler's Wedding: Part 1",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+7,23,"The One with Monica and Chandler's Wedding: Part 1",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+7,24,"The One with Monica and Chandler's Wedding: Part 2",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,24,"The One with Monica and Chandler's Wedding: Part 2",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+7,24,"The One with Monica and Chandler's Wedding: Part 2",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,1,"The One After I Do",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+8,1,"The One After I Do",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+8,1,"The One After I Do",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+8,2,"The One with the Red Sweater",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,2,"The One with the Red Sweater",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+8,3,"The One Where Rachel Tells...",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,3,"The One Where Rachel Tells...",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,3,"The One Where Rachel Tells...",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+8,4,"The One with the Videotape",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,4,"The One with the Videotape",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,5,"The One with Rachel's Date",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+8,5,"The One with Rachel's Date",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+8,5,"The One with Rachel's Date",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,6,"The One with the Halloween Party",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,6,"The One with the Halloween Party",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,6,"The One with the Halloween Party",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+8,7,"The One with the Stain",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,7,"The One with the Stain",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,7,"The One with the Stain",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,7,"The One with the Stain",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,8,"The One with the Stripper",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,8,"The One with the Stripper",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,9,"The One with the Rumor",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+8,9,"The One with the Rumor",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,9,"The One with the Rumor",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,10,"The One with Monica's Boots",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,10,"The One with Monica's Boots",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,10,"The One with Monica's Boots",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+8,11,"The One with Ross's Step Forward",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+8,11,"The One with Ross's Step Forward",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,11,"The One with Ross's Step Forward",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+8,12,"The One Where Joey Dates Rachel",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+8,12,"The One Where Joey Dates Rachel",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,12,"The One Where Joey Dates Rachel",TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+8,13,"The One Where Chandler Takes a Bath",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,13,"The One Where Chandler Takes a Bath",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+8,13,"The One Where Chandler Takes a Bath",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,14,"The One with the Secret Closet",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,14,"The One with the Secret Closet",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,14,"The One with the Secret Closet",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+8,15,"The One with the Birthing Video",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+8,15,"The One with the Birthing Video",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,15,"The One with the Birthing Video",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+8,16,"The One Where Joey Tells Rachel",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,16,"The One Where Joey Tells Rachel",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+8,16,"The One Where Joey Tells Rachel",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+8,17,"The One with the Tea Leaves",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,17,"The One with the Tea Leaves",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+8,17,"The One with the Tea Leaves",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,18,"The One in Massapequa",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,18,"The One in Massapequa",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,18,"The One in Massapequa",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,19,"The One with Joey's Interview",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+8,20,"The One with the Baby Shower",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,20,"The One with the Baby Shower",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+8,20,"The One with the Baby Shower",TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+8,21,"The One with the Cooking Class",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,21,"The One with the Cooking Class",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+8,21,"The One with the Cooking Class",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,22,"The One Where Rachel Is Late",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+8,22,"The One Where Rachel Is Late",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+8,22,"The One Where Rachel Is Late",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+8,23,"The One Where Rachel Has a Baby: Part 1",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,23,"The One Where Rachel Has a Baby: Part 1",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,23,"The One Where Rachel Has a Baby: Part 1",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+8,24,"The One Where Rachel Has a Baby: Part 2",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,24,"The One Where Rachel Has a Baby: Part 2",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,24,"The One Where Rachel Has a Baby: Part 2",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,1,"The One Where No One Proposes",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,1,"The One Where No One Proposes",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,1,"The One Where No One Proposes",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,2,"The One Where Emma Cries",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+9,2,"The One Where Emma Cries",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+9,2,"The One Where Emma Cries",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+9,3,"The One with the Pediatrician",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,3,"The One with the Pediatrician",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,4,"The One with the Sharks",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+9,4,"The One with the Sharks",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,5,"The One with Phoebe's Birthday Dinner",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,5,"The One with Phoebe's Birthday Dinner",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,5,"The One with Phoebe's Birthday Dinner",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,6,"The One with the Male Nanny",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,6,"The One with the Male Nanny",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,6,"The One with the Male Nanny",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,7,"The One with Ross's Inappropriate Song",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,7,"The One with Ross's Inappropriate Song",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,7,"The One with Ross's Inappropriate Song",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+9,8,"The One with Rachel's Other Sister",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,8,"The One with Rachel's Other Sister",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+9,9,"The One with Rachel's Phone Number",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+9,9,"The One with Rachel's Phone Number",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+9,9,"The One with Rachel's Phone Number",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,10,"The One with Christmas in Tulsa",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+9,10,"The One with Christmas in Tulsa",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,11,"The One Where Rachel Goes Back to Work",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,11,"The One Where Rachel Goes Back to Work",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+9,11,"The One Where Rachel Goes Back to Work",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,12,"The One with Phoebe's Rats",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,12,"The One with Phoebe's Rats",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,12,"The One with Phoebe's Rats",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,13,"The One Where Monica Sings",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+9,13,"The One Where Monica Sings",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+9,13,"The One Where Monica Sings",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,14,"The One with the Blind Dates",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,14,"The One with the Blind Dates",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+9,14,"The One with the Blind Dates",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+9,15,"The One with the Mugging",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+9,15,"The One with the Mugging",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+9,15,"The One with the Mugging",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+9,16,"The One with the Boob Job",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+9,16,"The One with the Boob Job",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+9,16,"The One with the Boob Job",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,17,"The One with the Memorial Service",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+9,17,"The One with the Memorial Service",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,17,"The One with the Memorial Service",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,18,"The One with the Lottery",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+9,18,"The One with the Lottery",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,19,"The One with Rachel's Dream",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,19,"The One with Rachel's Dream",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+9,19,"The One with Rachel's Dream",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,20,"The One with the Soap Opera Party",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+9,20,"The One with the Soap Opera Party",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,20,"The One with the Soap Opera Party",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+9,21,"The One with the Fertility Test",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,21,"The One with the Fertility Test",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+9,21,"The One with the Fertility Test",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+9,22,"The One with the Donor",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+9,22,"The One with the Donor",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,22,"The One with the Donor",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+9,22,"The One with the Donor",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,23,"The One in Barbados: Part 1",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,23,"The One in Barbados: Part 1",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+9,23,"The One in Barbados: Part 1",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,24,"The One in Barbados: Part 2",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+9,24,"The One in Barbados: Part 2",TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+9,24,"The One in Barbados: Part 2",FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+10,1,"The One After Joey and Rachel Kiss",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+10,1,"The One After Joey and Rachel Kiss",FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+10,1,"The One After Joey and Rachel Kiss",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+10,1,"The One After Joey and Rachel Kiss",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,2,"The One Where Ross Is Fine",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,2,"The One Where Ross Is Fine",FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+10,2,"The One Where Ross Is Fine",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+10,2,"The One Where Ross Is Fine",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+10,3,"The One with Ross's Tan",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+10,3,"The One with Ross's Tan",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+10,3,"The One with Ross's Tan",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+10,4,"The One with the Cake",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,4,"The One with the Cake",TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+10,5,"The One Where Rachel's Sister Babysits",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+10,5,"The One Where Rachel's Sister Babysits",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+10,5,"The One Where Rachel's Sister Babysits",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+10,6,"The One with Ross' Grant",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+10,6,"The One with Ross' Grant",FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+10,6,"The One with Ross' Grant",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+10,7,"The One with the Home Study",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+10,7,"The One with the Home Study",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,7,"The One with the Home Study",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+10,8,"The One with the Late Thanksgiving",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+10,8,"The One with the Late Thanksgiving",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+10,8,"The One with the Late Thanksgiving",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,9,"The One with the Birth Mother",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,9,"The One with the Birth Mother",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+10,9,"The One with the Birth Mother",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+10,10,"The One Where Chandler Gets Caught",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+10,10,"The One Where Chandler Gets Caught",FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+10,10,"The One Where Chandler Gets Caught",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,11,"The One Where the Stripper Cries",FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+10,11,"The One Where the Stripper Cries",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+10,11,"The One Where the Stripper Cries",TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+10,11,"The One Where the Stripper Cries",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+10,11,"The One Where the Stripper Cries",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+10,12,"The One with Phoebe's Wedding",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+10,12,"The One with Phoebe's Wedding",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+10,12,"The One with Phoebe's Wedding",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+10,13,"The One Where Joey Speaks French",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+10,13,"The One Where Joey Speaks French",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,13,"The One Where Joey Speaks French",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,14,"The One with Princess Consuela",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+10,14,"The One with Princess Consuela",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+10,14,"The One with Princess Consuela",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+10,15,"The One Where Estelle Dies",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+10,15,"The One Where Estelle Dies",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,15,"The One Where Estelle Dies",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,16,"The One with Rachel's Going Away Party",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,16,"The One with Rachel's Going Away Party",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,16,"The One with Rachel's Going Away Party",TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+10,16,"The One with Rachel's Going Away Party",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+10,16,"The One with Rachel's Going Away Party",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+10,16,"The One with Rachel's Going Away Party",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+10,17,"The Last One: Part 1",TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,17,"The Last One: Part 1",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,17,"The Last One: Part 1",FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+10,17,"The Last One: Part 1",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+10,18,"The Last One: Part 2",FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+10,18,"The Last One: Part 2",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+10,18,"The Last One: Part 2",TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+10,18,"The Last One: Part 2",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
